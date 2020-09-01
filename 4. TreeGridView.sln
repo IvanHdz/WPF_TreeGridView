@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGridView", "TreeGridView\TreeGridView.csproj", "{2017B21A-1D55-4ACC-8A94-9541C9DC3CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGridView.Common", "TreeGridView.Common\TreeGridView.Common.csproj", "{FD4EA488-58D0-4685-BB98-BF3F48A5BB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2017B21A-1D55-4ACC-8A94-9541C9DC3CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2017B21A-1D55-4ACC-8A94-9541C9DC3CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2017B21A-1D55-4ACC-8A94-9541C9DC3CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2017B21A-1D55-4ACC-8A94-9541C9DC3CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4EA488-58D0-4685-BB98-BF3F48A5BB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4EA488-58D0-4685-BB98-BF3F48A5BB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4EA488-58D0-4685-BB98-BF3F48A5BB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4EA488-58D0-4685-BB98-BF3F48A5BB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B39E8BF-F5D7-4549-B808-D9BE67ABA3C5}
+	EndGlobalSection
+EndGlobal
